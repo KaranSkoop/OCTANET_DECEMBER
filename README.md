@@ -1,1 +1,8 @@
 # OCTANET_DECEMBER
+
+
+#TASK 2
+--FILES INCLUDED--
+HTML-index.html
+CSS-style.css
+JAVASCRIPT-script.js
